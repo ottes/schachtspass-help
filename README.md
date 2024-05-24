@@ -4,7 +4,17 @@ Zu finden unter https://help.mine.ottes.club
 
 ## Verbindung und Mod-Paket
 
-Das aktuelle ModPaket werde ich hier auch bald verlinken/hinterlegen. Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls nicht, lautet die Adresse **minecraft.ottes.club**
+Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls nicht, lautet die Adresse **minecraft.ottes.club**
+
+Es gibt derzeit drei Versionen des ModPakets
+
+- [FamilienFabric-1.4.zip](https://foo.bar) - volles Paket, 60MB Download und großes Resourcenpaket, nichts für eine schwache Leitung (ca 60MB mit JourneyMap)
+- [FamilienFabric-ohnemapinhalt-1.4.zip](https://foo.bar) - gleiches Paket, aber ohne (teil-)aufgedeckte Map, damit kleine zip-Datei, aber immer noch große Resourcen
+- [FamilienFabric-1.4.zip](https://foo.bar) - keine Map, kein [Coven](https://www.curseforge.com/minecraft/texture-packs/coven), auch mit DSL Lite machbar
+
+## (Chat) Commands und Items
+
+[Commands.md](https://github.com/ottes/schachtspass-help/blob/main/README.md/)
 
 ## Google-Maps-Style Karte (DynMap)
 
