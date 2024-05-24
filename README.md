@@ -36,7 +36,11 @@ Die Karte statet erstmal immer in [Berlin](<[https://foo](https://mine.ottes.clu
 
 Willst du einen Link "teilen", also die aktuelle Ansicht weitergeben, klicke einmal auf das "Kettensymbol" unten links, danach kannst Du den Text in der Browserzeile kopieren/teilen.
 
-Todo: [Markergruppen](https://github.com/webbukkit/dynmap/wiki/Using-Markers#marker-sets) erklären?
+#### Marker-Sets
+
+Todo: [Markergruppen](https://github.com/webbukkit/dynmap/wiki/Using-Markers#marker-sets) erklären
+
+- `/dmarker listsets` zeigt alle verfügbaren "Sets" an
 
 #### HowTo Schilder -> Markierungen
 
@@ -56,7 +60,7 @@ Der Spieler kann einen Marker erstellen, indem er ein Schild mit `[dynmap]` in d
 
 Beispiel
 
-    [dynmap] icon:bed
+    [dynmap] icon:bed set:markers
     Mein Bett
 
 #### Icons
