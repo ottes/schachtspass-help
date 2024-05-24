@@ -46,6 +46,8 @@ Todo: [Markergruppen](https://github.com/webbukkit/dynmap/wiki/Using-Markers#mar
 
 Da die [originale Anleitung](https://github.com/webbukkit/dynmap/wiki/Component-Configuration#mc-enablesigns) englisch ist, hier einmal stark vereinfacht und mit Übersicht über die Icons.
 
+**Vorraussetzung:** Der Spieler hat die `dynmap.marker.sign` Berechtigung. Derzeit reicht OP anscheinend nicht. Todo: ops sollten das können!
+
 Der Spieler kann einen Marker erstellen, indem er ein Schild mit `[dynmap]` in der ersten Zeile aufstellt.
 
 - Die Beschriftung des Markers wird aus der ersten Zeile nach `[dynmap]` genommen, die nicht leer ist
