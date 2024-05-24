@@ -58,3 +58,7 @@ Beispiel
 
     [dynmap] icon:bed
     Mein Bett
+
+#### Icons
+
+![Image](https://camo.githubusercontent.com/29c0ba4976a7db3d89d141ab38fd0dcb6126e994fd9d43d2e6341010b89679c6/687474703a2f2f6d696b657072696d6d2e636f6d2f696d616765732f4d61726b6572732e706e67)
