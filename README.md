@@ -8,9 +8,9 @@ Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls n
 
 Es gibt derzeit drei Versionen des ModPakets
 
-- [FamilienFabric-1.4.zip](https://foo.bar) - volles Paket, 60MB Download und großes Resourcenpaket, nichts für eine schwache Leitung (ca 60MB mit JourneyMap)
-- [FamilienFabric-ohnemapinhalt-1.4.zip](https://foo.bar) - gleiches Paket, aber ohne (teil-)aufgedeckte Map, damit kleine zip-Datei, aber immer noch große Resourcen
-- [FamilienFabric-1.4.zip](https://foo.bar) - keine Map, kein [Coven](https://www.curseforge.com/minecraft/texture-packs/coven), auch mit DSL Lite machbar
+- [FamilienFabric-1.4.zip](./assets/FamilienFabric-1.4.zip) - volles Paket, 60MB Download und großes Resourcenpaket, nichts für eine schwache Leitung (ca 60MB mit JourneyMap)
+- [FamilienFabric-ohnemapinhalt-1.4.zip](./assets/FamilienFabric-ohnemapinhalt-1.4.zip) - gleiches Paket, aber ohne (teil-)aufgedeckte Map, damit kleine zip-Datei, aber immer noch große Resourcen
+- [FamilienFabric-ohnecoven-1.4.zip](./assets/FamilienFabric-ohnecoven-1.4.zip) - keine Map, kein [Coven](https://www.curseforge.com/minecraft/texture-packs/coven), auch mit DSL Lite machbar
 
 ## (Chat) Commands und Items
 
