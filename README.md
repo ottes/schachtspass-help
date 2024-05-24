@@ -14,7 +14,7 @@ Es gibt derzeit drei Versionen des ModPakets
 
 ## (Chat) Commands und Items
 
-[Commands.md](https://github.com/ottes/schachtspass-help/blob/main/README.md/)
+[Commands.md](./Commands.md)
 
 ## Google-Maps-Style Karte (DynMap)
 
