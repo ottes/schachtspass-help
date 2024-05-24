@@ -16,11 +16,11 @@ Um den Chat vom Browser aus nutzen zu können, brauchst du zuerst einen Account 
 
 ### Commands
 
-Hier sind alle DynMap Commands im Original auf Englisch, nutzt ChatGPT.
-
-https://github.com/webbukkit/dynmap/wiki/Commands
+[OriginalDoku](https://github.com/webbukkit/dynmap/wiki/Commands)
 
 ### Markierungen
+
+[OriginalDoku](https://github.com/webbukkit/dynmap/wiki/Using-Markers)
 
 Die Karte statet erstmal immer in [Berlin](<[https://foo](https://mine.ottes.club/#Schachtspa%C3%9F;flat;-2899,64,-8328;4)>), im Menü rechts findet man dann "Marker". Einerseits alle Spieler, die gerade online sind, aber auch alle Schilder, die nach der Anleitunge unten erstellt wurden.
 
