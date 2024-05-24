@@ -62,8 +62,11 @@ Der Spieler kann einen Marker erstellen, indem er ein Schild mit `[dynmap]` in d
 
 Beispiel
 
-    [dynmap] icon:bed set:markers
-    Mein Bett
+![Schild Vorher](./assets/dynmap-sign-before.png)
+
+![Schild Vorher](./assets/dynmap-sign-after.png)
+
+![Schild Vorher](./assets/dynmap-sign-marker.png)
 
 #### Icons
 
