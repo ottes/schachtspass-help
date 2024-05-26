@@ -34,6 +34,10 @@ Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls n
 
 [Commands.md](./Commands.md)
 
+## Resourcen
+
+![Resourcen](./assets/resourcen.png)
+
 ## Google-Maps-Style Karte (DynMap)
 
 Zu finden unter https://mine.ottes.club, auch aufzufinden durch Tippen von `/dynmap url` in den Minecraft-Chat.
