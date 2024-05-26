@@ -2,15 +2,33 @@
 
 Zu finden unter https://help.mine.ottes.club
 
-## Verbindung und Mod-Paket
+## ModPaket
 
-Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls nicht, lautet die Adresse **minecraft.ottes.club**
+Seit 1.4 haben wir folgendes geändert. Im 1.5 wird das dann so enthalten sein, derzeit am besten 1.4 installieren und dann die Liste durchgehen.
+
+- dynamic-lights gelöscht (nur auf Server oder mit SinglePlayer Welt nötig)
+- coven resourcen gelöscht
+- Lithium auf Server und Client (freiwillig)
+- WorldEdit CUI Client (freiwillig)
+- DynamicFPS im Client (freiwillig)
+
+### Mod hinzufügen oder updaten
+
+Aufs Puzzleteil, dann suchen, dann installieren.
+
+Für update in der Liste auf den Pfeil-Runter, nur wenn es gemacht werden soll.
+
+## Downlad
 
 Es gibt derzeit drei Versionen des ModPakets
 
 - [FamilienFabric-1.4.zip](./assets/FamilienFabric-1.4.zip) - volles Paket, 60MB Download und großes Resourcenpaket, nichts für eine schwache Leitung (ca 60MB mit JourneyMap)
 - [FamilienFabric-ohnemapinhalt-1.4.zip](./assets/FamilienFabric-ohnemapinhalt-1.4.zip) - gleiches Paket, aber ohne (teil-)aufgedeckte Map, damit kleine zip-Datei, aber immer noch große Resourcen
 - [FamilienFabric-ohnecoven-1.4.zip](./assets/FamilienFabric-ohnecoven-1.4.zip) - keine Map, kein [Coven](https://www.curseforge.com/minecraft/texture-packs/coven), auch mit DSL Lite machbar
+
+## Verbindung
+
+Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls nicht, lautet die Adresse **minecraft.ottes.club**
 
 ## (Chat) Commands und Items
 
