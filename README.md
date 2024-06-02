@@ -54,6 +54,10 @@ Updates
 - JourneyMap
 - Travelers Backpack
 
+Achtung
+
+- Chisel & Bits bitte löschen, nächstes Update ist dann sauber
+
 ## Verbindung
 
 Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls nicht, lautet die Adresse **minecraft.ottes.club**
