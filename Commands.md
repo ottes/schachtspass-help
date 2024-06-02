@@ -7,3 +7,7 @@
     /give @p ???
 
 Todo: flo?
+
+# World Edit CUI
+
+    /we help
