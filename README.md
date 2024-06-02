@@ -26,6 +26,12 @@ Es gibt derzeit drei Versionen des ModPakets
 - [FamilienFabric-ohnemapinhalt-1.4.zip](./assets/FamilienFabric-ohnemapinhalt-1.4.zip) - gleiches Paket, aber ohne (teil-)aufgedeckte Map, damit kleine zip-Datei, aber immer noch große Resourcen
 - [FamilienFabric-ohnecoven-1.4.zip](./assets/FamilienFabric-ohnecoven-1.4.zip) - keine Map, kein [Coven](https://www.curseforge.com/minecraft/texture-packs/coven), auch mit DSL Lite machbar
 
+## Update 1.5
+
+Die Zip Datei enthält alle neuen jars, doppelte (mit alten Versionen) bitte löschen.
+
+[FamilienFabric-1.5-patch.zip](./assets/FamilienFabric-1.5-patch.zip.zip)
+
 ## Verbindung
 
 Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls nicht, lautet die Adresse **minecraft.ottes.club**
