@@ -32,6 +32,28 @@ Die Zip Datei enthält alle neuen jars, doppelte (mit alten Versionen) bitte lö
 
 [FamilienFabric-1.5-patch.zip](./assets/FamilienFabric-1.5-patch.zip.zip)
 
+### Changelog
+
+Neue Mods
+
+- Laser Bridges & Doors (Laser-Brücken und -Tore)
+- Omni-Hopper (Trichter, die in alle Richungen gehen, nicht nur oben offen)
+- Friends&Foes (viele neue Tiere)
+- Friends&Foes - Flowery Mooblooms (neue Kühe)
+- Friends&Foes - Beekeeper Hut (Imker-Hütte als Struktur)
+- Repurposed Structures - Friends and Foes Compat Mod (mehr Strukturen in neuen Chunks beim Erkunden)
+- Repurposed Structures (noch mehr Strukturen)
+- Hybrid Aquatic (viele neue Unterwasser-Tiere)
+- Chisels & Bits - For Fabric (mehr Details im Detail)
+
+Updates
+
+- Collective
+- Common network
+- Fabric API
+- JourneyMap
+- Travelers Backpack
+
 ## Verbindung
 
 Derzeit sollte der Schachtspaßserver schon in der Liste vorhanden sein, falls nicht, lautet die Adresse **minecraft.ottes.club**
